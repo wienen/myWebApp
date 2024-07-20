@@ -1,3 +1,4 @@
+// This is a change I entered as part of a course.
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
